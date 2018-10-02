@@ -1,7 +1,15 @@
-# 1070911-1
-<!doctype html>
-<head>
-<meta charset="utf-8">
-<title>introduction</title>
-</head>
-<
+# 1071-staic-webpage
+
+Week 1
+* intro.html
+
+Week 2
+* table.html
+* my class.html
+
+Week 3
+* tku60.html
+* divdemo.html
+
+Week 4
+* ttt.html,ttt.css
