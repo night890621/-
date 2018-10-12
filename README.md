@@ -17,5 +17,5 @@ Week 4
 * profile.html
 
 Week 5
-*imagegallery.html,imagegallery.css
-*pet website.html,pet website.css
+* imagegallery.html,imagegallery.css
+* pet website.html,pet website.css
