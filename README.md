@@ -1,9 +1,9 @@
 # 1071-staic-webpage
 
-Week 1
+## Week 1
 * intro.html
 
-Week 2
+## Week 2
 * table.html
 * my class.html
 
@@ -19,3 +19,6 @@ Week 4
 Week 5
 * imagegallery.html,imagegallery.css
 * pet website.html,pet website.css
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NzgxNDU5MjVdfQ==
+-->
