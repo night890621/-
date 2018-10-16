@@ -1,10 +1,10 @@
 # 1071-staic-webpage
 
 ## Week 1
-* [intro.html]()
+* [intro.html](https://night890621.github.io/107web/w01/w01/intro.html)
 
 ## Week 2
-* table.html
+* [table.html]()
 * my class.html
 
 ## Week 3
@@ -20,5 +20,5 @@
 * imagegallery.html,imagegallery.css
 * pet website.html,pet website.css
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNDU0MDQxOF19
+eyJoaXN0b3J5IjpbLTkyNDAyNDE5MF19
 -->
